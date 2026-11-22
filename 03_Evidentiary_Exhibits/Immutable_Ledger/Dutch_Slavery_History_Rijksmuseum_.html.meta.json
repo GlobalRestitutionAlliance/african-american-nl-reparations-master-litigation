@@ -1,0 +1,11 @@
+{
+  "url": "https://www.rijksmuseum.nl/en/stories/slavery",
+  "final_url": "https://www.rijksmuseum.nl/en/stories/exhibitions/slavery",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 104753,
+  "sha256": "5abac4bcee8859f732db7dbc69c92de700a8625cacfee02547330eed1c5f117e",
+  "captured_at": "2026-11-22T06:46:30.820910Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture"
+}
