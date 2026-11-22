@@ -29,6 +29,16 @@
 | 2026-11-22 | UK_National_Archives_-_Slavery.html | https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/slavery-or-slave-owners/ | OpenCode/harvest | 8b68ac9c5d1d45a33c711ba336c6c5a674de6a7b231f1ed35915eca71aaa7f6e | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=66425 |
 | 2026-11-22 | Library of Congress - Slavery Resources | https://guides.loc.gov/slavery | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
 
+| 2026-11-22 | Nationaal Archief - Slavery | https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/slavernijverleden | OpenCode/harvest | N/A | CAPTURE_FAILED | <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)> |
+| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
+| 2026-11-22 | Library of Congress - Slavery Resources | https://guides.loc.gov/slavery | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | Nationaal Archief - slavery past | https://www.nationaalarchief.nl/en/research/search?searchTerm=slavery | OpenCode/harvest | N/A | CAPTURE_FAILED | <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)> |
+
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
 - Captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.

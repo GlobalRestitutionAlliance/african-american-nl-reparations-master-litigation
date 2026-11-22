@@ -1,6 +1,5 @@
 # Primary Public Sources
 
-
 - [Nationaal Archief - Slavery](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/slavernijverleden)
 - [Dutch Slavery History (Rijksmuseum)](https://www.rijksmuseum.nl/en/stories/slavery)
 - [Slave Voyages](https://www.slavevoyages.org/)
@@ -23,3 +22,4 @@
 - [UCL Legacies of British Slavery](https://www.ucl.ac.uk/lbs/)
 - [UK National Archives - Slavery](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/slavery-or-slave-owners/)
 - [Library of Congress - Slavery Resources](https://guides.loc.gov/slavery)
+- [Nationaal Archief - slavery past](https://www.nationaalarchief.nl/en/research/search?searchTerm=slavery)
