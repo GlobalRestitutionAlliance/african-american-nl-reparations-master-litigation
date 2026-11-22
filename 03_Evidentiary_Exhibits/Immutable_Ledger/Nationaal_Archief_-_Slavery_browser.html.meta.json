@@ -1,12 +1,13 @@
 {
   "url": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/slavernijverleden",
   "final_url": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/slavernijverleden",
-  "status": 200,
   "title": "Slavernijverleden | Nationaal Archief",
   "bytes": 80028,
   "sha256": "73d162d17041d53d76bda3aecc849cfba12e02070e008a5df4258e5370805666",
   "captured_at": "2026-11-22T20:27:46.764386Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }
