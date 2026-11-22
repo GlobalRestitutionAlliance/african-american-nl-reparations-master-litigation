@@ -1,0 +1,12 @@
+{
+  "url": "https://www.nationaalarchief.nl/en/research/search?searchTerm=slavery",
+  "final_url": "https://www.nationaalarchief.nl/en/research/search?searchTerm=slavery",
+  "status": 200,
+  "title": "Nationaal Archief - slavery past",
+  "bytes": 100091,
+  "sha256": "d5cc3c57918a0f8fdc477c85d05714f5def1d579d601d121874cc6f2d942928b",
+  "captured_at": "2026-11-22T20:28:48.334979Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}

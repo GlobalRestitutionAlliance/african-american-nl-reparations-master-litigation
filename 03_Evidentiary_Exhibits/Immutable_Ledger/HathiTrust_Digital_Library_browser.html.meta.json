@@ -1,0 +1,12 @@
+{
+  "url": "https://www.hathitrust.org/",
+  "final_url": "https://www.hathitrust.org/",
+  "status": 200,
+  "title": "HathiTrust Digital Library",
+  "bytes": 100130,
+  "sha256": "966f449e4df5a3370e4bedf93e5a679903b243b1d0d579b8023b5526bb65bd30",
+  "captured_at": "2026-11-22T20:27:46.767386Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}
