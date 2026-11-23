@@ -49,6 +49,18 @@
 | 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | ba2e21845ed7d4fcb513b1b8c617782561653ff34c4a46dec77d4ba8673e9f86 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=26594 final_url=https://digitallibrary.un.org/ |
 | 2026-11-22 | UN_OHCHR_browser.html | https://www.ohchr.org/ | OpenCode/browser-fallback | 89ce53d436d81b160629c8b9bbe57c09d75c7d18a80e9bc11f25e6f0d0f4de36 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=100114 final_url=https://www.ohchr.org/ |
 
+| 2026-11-22 | Dutch_government_slavery_history.html | https://www.government.nl/topics/discrimination/history-of-slavery | OpenCode/harvest | df94027fce5043207662509f5e236030f037f907e444bf52b19628343058df92 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=243471 final_url=https://www.government.nl/themes/migration-and-travel/discrimination/history-of-slavery |
+
+| 2026-11-22 | HathiTrust_Digital_Library_73a05a74_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 73a05a74d44525ffffe44536b599d506d33eaedd322bc48eb1f115e8ae96f66f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
+
+| 2026-11-22 | UN_OHCHR_racial_discrimination_browser.html | https://www.ohchr.org/en/topic/racism-racial-discrimination | OpenCode/browser-fallback | 058b5844305991cfcd722f2fa59e77fdbdbe98cc09e14440577a6fdc251cff0a | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60020 final_url=https://www.ohchr.org/en/topic/racism-racial-discrimination |
+
+| 2026-11-22 | National_Archives_Netherlands_-_slavery_browser.html | https://www.nationaalarchief.nl/en/research/subjects/slavery | OpenCode/browser-fallback | bf4553b695821d54b1d2a33f3d19223d5711f62360e1f157728586cc514b9687 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=49302 final_url=https://www.nationaalarchief.nl/en/research/subjects/slavery |
+
+| 2026-11-22 | Library_of_Congress_-_Dutch_slave_trade_browser.html | https://www.loc.gov/item/?q=dutch+slave+trade | OpenCode/browser-fallback | bbf6e62264e66c7d1304754e2322aca6b2ac5992110359f7caac6dcd93827a15 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=dutch+slave+trade |
+
+| 2026-11-22 | World_Bank_Netherlands_browser.html | https://data.worldbank.org/country/netherlands | OpenCode/browser-fallback | 4fae8746f5e6e610c0580abb74df63cce705d2d897bba582bf52e07672bda504 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60013 final_url=https://data.worldbank.org/country/netherlands |
+
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
 - Captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.

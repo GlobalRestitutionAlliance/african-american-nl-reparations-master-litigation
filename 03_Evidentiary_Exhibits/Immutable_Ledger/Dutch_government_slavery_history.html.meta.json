@@ -1,0 +1,13 @@
+{
+  "url": "https://www.government.nl/topics/discrimination/history-of-slavery",
+  "final_url": "https://www.government.nl/themes/migration-and-travel/discrimination/history-of-slavery",
+  "title": "Dutch government slavery history",
+  "fetched_at": "2026-11-23T00:42:05.055163Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 243471,
+  "sha256": "df94027fce5043207662509f5e236030f037f907e444bf52b19628343058df92",
+  "provenance": "direct-http-capture",
+  "custodian": "OpenCode/harvest",
+  "legal_review_status": "PENDING_LEGAL_REVIEW"
+}

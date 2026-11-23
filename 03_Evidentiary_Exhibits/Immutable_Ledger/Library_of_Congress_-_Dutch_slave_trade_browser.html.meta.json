@@ -1,0 +1,16 @@
+{
+  "url": "https://www.loc.gov/item/?q=dutch+slave+trade",
+  "final_url": "https://www.loc.gov/item/?q=dutch+slave+trade",
+  "title": "Library of Congress - Dutch slave trade",
+  "fetched_at": "2026-11-23T00:45:04.108641Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 60000,
+  "sha256": "bbf6e62264e66c7d1304754e2322aca6b2ac5992110359f7caac6dcd93827a15",
+  "provenance": "browser-rendered-outerHTML",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML"
+}
