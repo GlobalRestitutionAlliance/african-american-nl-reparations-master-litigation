@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off. 404/not-found captures are marked NOT_SUBSTANTIVE_404_PENDING_RECAPTURE and are not substantive evidence until recaptured.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_Newspapers__browser.html` | `abd1c195626bd38c...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.courtlistener.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CourtListener_browser.html` | `8f027e558026dbdf...` | PENDING_LEGAL_REVIEW
@@ -25,9 +25,3 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0021: https://history.state.gov/historicaldocuments | `03_Evidentiary_Exhibits/Immutable_Ledger/US_State_Dept_FRUS.html` | `c948fdff783f2e5f...` | PENDING_LEGAL_REVIEW
 - CIT-0022: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0023: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `cd0321a81572d7d8...` | PENDING_LEGAL_REVIEW
-- CIT-0024: https://www.government.nl/topics/discrimination/history-of-slavery | `03_Evidentiary_Exhibits/Immutable_Ledger/Dutch_government_slavery_history.html` | `df94027fce504320...` | PENDING_LEGAL_REVIEW
-- CIT-0025: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_73a05a74_browser.html` | `dc98a44dbb3a4331...` | PENDING_LEGAL_REVIEW
-- CIT-0026: https://www.loc.gov/item/?q=dutch+slave+trade | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Dutch_slave_trade_browser.html` | `811ca00e0b9f465c...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
-- CIT-0027: https://www.nationaalarchief.nl/en/research/subjects/slavery | `03_Evidentiary_Exhibits/Immutable_Ledger/National_Archives_Netherlands_-_slavery_browser.html` | `8233479841e12d4f...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
-- CIT-0028: https://www.ohchr.org/en/topic/racism-racial-discrimination | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_racial_discrimination_browser.html` | `88bf45ea8bb53e57...` | PENDING_LEGAL_REVIEW
-- CIT-0029: https://data.worldbank.org/country/netherlands | `03_Evidentiary_Exhibits/Immutable_Ledger/World_Bank_Netherlands_browser.html` | `5d9e045bb8ad7f08...` | PENDING_LEGAL_REVIEW
